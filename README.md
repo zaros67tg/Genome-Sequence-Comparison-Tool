@@ -2,6 +2,7 @@
 
 A production-ready, interactive **bioinformatics web application** built with Python and Streamlit for comparing biological sequences — DNA, RNA, and protein. Perform pairwise alignments, quantify similarity, classify mutations, explore interactive visualizations, and export comprehensive PDF and CSV reports — all from your browser.
 
+youtube link- https://youtu.be/qOKotSAtG3A
 ---
 
 ## Table of Contents
